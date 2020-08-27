@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/hussein/F2B288F7B288C199/Algorithms/longest_increasing_subsequence/LIS_with_DP_&_binary_Search.cpp
+bits/stdc++.h
+-
+
