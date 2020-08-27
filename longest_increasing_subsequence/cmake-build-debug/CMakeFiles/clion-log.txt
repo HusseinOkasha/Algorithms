@@ -1,4 +1,0 @@
-/home/hussein/snap/CLion-2019.3.5/clion-2019.3.5/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /media/hussein/F2B288F7B288C199/Algorithms/longest_increasing_subsequence
--- Configuring done
--- Generating done
--- Build files have been written to: /media/hussein/F2B288F7B288C199/Algorithms/longest_increasing_subsequence/cmake-build-debug
